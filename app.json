@@ -1,1 +1,7 @@
-# alexa-heroku-api.ai
+{
+"name": "Java heroku Sample",
+"description": "A sample java app using Alexa",
+"repository": "https://github.com/alexaaccenture/alexa-heroku-api.ai",
+"logo": "http://xvir.github.io/img/apiai.png",
+"keywords": ["api.ai", "natural language"]
+}
